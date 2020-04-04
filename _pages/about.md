@@ -6,6 +6,7 @@ permalink: /about/
 
 ## About Me
 
+| Cyber Name          | Ngzhio          |
 | Chinese Name        | 黄尚志           |
 | Chinese Name Pinyin | Shangzhi Huang  |
 | Chinese Nickname    | 亚力             |
