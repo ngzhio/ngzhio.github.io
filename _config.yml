@@ -1,0 +1,65 @@
+title: Shangzhi Huang's Blog
+description: Just a blog
+url: https://ngzhio.github.io
+author: Shangzhi Huang
+email: ngzhio@protonmail.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jemoji
+
+google_analytics: UA-162809389-1
+
+disqus: ngzhio
+
+include:
+  - _pages
+
+exclude:
+  - scripts/
+  - README.md
+
+permalink: /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: ""      
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Shangzhi Huang"
+      image: "avatar.jpg"
+      share: true
+  - scope:
+      path: ""      
+      type: "pages"
+    values:
+      layout: "page"
+      author: "Shangzhi Huang"
+      image: "avatar.jpg"
+
+# Jekyll Remote Theme
+# ===================
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: ngzhio
+  card: summary
+logo: avatar.jpg
+social:
+  name: Shangzhi Huang
+  links:
+    - https://twitter.com/ngzhio
+    - https://github.com/ngzhio
+google_site_verification: 4rJVEqohxFf9v63T6GlYRBTHUoliWFIMHOTVegw09Zc
+lang: en
+
+# Jekyll Paginate
+# ===============
+paginate: 10

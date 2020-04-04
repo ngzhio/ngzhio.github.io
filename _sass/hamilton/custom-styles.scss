@@ -1,0 +1,41 @@
+/**
+ * Reading Books
+ */
+#reading-books {
+  list-style: none;
+  display: grid;
+  column-gap: 0.3em;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 0;
+  padding: 0;
+
+  @include media-query($on-medium) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @include media-query($on-small) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .reading-book {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    display: flex;
+
+    img {
+      width: 135px;
+      height: 200px;
+
+      @include media-query($on-medium) {
+        width: 125px;
+        height: 185px;
+      }
+
+      @include media-query($on-small) {
+        width: 115px;
+        height: 170px;
+      }
+    }
+  }
+}
