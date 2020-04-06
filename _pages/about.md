@@ -17,3 +17,8 @@ permalink: /about/
 ## About This Blog
 
 {{ site.description }}.
+
+## Portfolio
+
+- Jekyll Themes
+  - [Hamilton - another minimal style of Jekyll theme for writers](https://github.com/ngzhio/jekyll-theme-hamilton)
