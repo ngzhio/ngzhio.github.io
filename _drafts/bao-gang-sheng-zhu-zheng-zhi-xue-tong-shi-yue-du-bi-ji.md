@@ -2,6 +2,7 @@
 title: "包刚升著《政治学通识》阅读笔记"
 categories: [Notes, Reading, Politics]
 tags: [politics]
+lang: zh-Hans
 ---
 
 包刚升著[《政治学通识》](https://book.douban.com/subject/26658395/)出版于 2015 年，乃作者在复旦大学政治学课程讲义的基础上修改润色而成。
