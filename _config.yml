@@ -2,7 +2,7 @@ title: Shangzhi Huang's Blog
 description: Just a blog
 url: https://ngzhio.github.io
 author: Shangzhi Huang
-email: ngzhio@protonmail.com
+email: ngzhio@gmail.com
 
 plugins:
   - jekyll-feed
@@ -12,7 +12,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-google_analytics: UA-162809389-1
+google_analytics: UA-163113883-1
 
 disqus: ngzhio
 
@@ -57,7 +57,6 @@ social:
   links:
     - https://twitter.com/ngzhio
     - https://github.com/ngzhio
-google_site_verification: 4rJVEqohxFf9v63T6GlYRBTHUoliWFIMHOTVegw09Zc
 lang: en
 
 # Jekyll Paginate
