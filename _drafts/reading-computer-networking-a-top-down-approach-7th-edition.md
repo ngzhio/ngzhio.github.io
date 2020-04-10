@@ -73,3 +73,22 @@ The Internet (TCP/IP networks) makes two transport protocols available to applic
 Neither TCP nor UDP provide any encryption. There is an application layer called *Secure Sockets Layer (SSL)* (An upgrade version is called *[Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security)*). It is an enhancement for TCP, provides critical process-to-process security services, including encryption, data integrity, and end-point authentication.
 
 ### The Web and HTTP
+
+The [*World Wide Web*](https://en.wikipedia.org/wiki/World_Wide_Web) is an application. The [*HyperText Transfer Protocol (HTTP)*](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), the Web's application-layer protocol, is at the heart of the Web. HTTP uses TCP as its underlying transport protocol. Because an HTTP server maintains no information about the clients, HTTP is said to be a *stateless protocol*.
+
+HTTP uses persistent connections in its default mode, but HTTP clients and servers can be configured to use non-persistent connections instead.
+
+{% include image.html name="three-way-handshake.png" width="60%" caption="Three-way handshake" %}
+
+When a user clicks on a hyperlink, a *three-way handshake* happens:
+
+1. The client sends a small TCP segment to the server.
+2. The server acknowledges and responds with a small TCP segment.
+3. The client sends the HTTP request message combined with the acknowledgment into the TCP connection.
+4. The server sends the HTML file into the TCP connection.
+
+The whole process consumes 2 RTTs. A *round-trip time (RTT)* is the time it takes for a small packet to travel from client to server and then back to the client. The RTT includes packet-propagation delays, packet-queuing delays in intermediate routers and switches, and packet-processing delays.
+
+After the first two steps, a TCP connection is built. The difference between a persistent connection and a non-persistent connection is whether the HTTP server process tells TCP to close the TCP connection in the fourth step. (But TCP doesn't actually terminate the connection until it knows for sure that the client has received the response message intact.)
+
+With persistent connections, the server leaves the TCP connection open after sending a response. Subsequent requests and responses between the same client and server can be sent over the same connection. Typically, the HTTP server closes a connection when it isn't used for a certain time (a configurable timeout interval).
