@@ -1,5 +1,6 @@
 ---
 title: "贝叶斯平均及其应用于豆瓣图书的排序"
+date: 2020-04-11 22:49:20 +0800
 lang: zh-Hans
 categories: [Essays, Computer, Mathematics]
 tags: [bayesian average, douban, books]
@@ -22,11 +23,27 @@ math: true
 
 我们不可能先验地设定 \\\(C\\\) 和 \\\(m\\\)，它们只能根据后验的统计结果计算它们，因此它们是动态的，会根据投票结果不断地修正。这种后验影响先验、先验又反作用于后验的循环逻辑，受激发于[贝叶斯推断](https://en.wikipedia.org/wiki/Bayesian_inference)。一个简单的算法是，令 \\\(C\\\) 等于每个项目的算术平均票数，\\\(m\\\) 等于所有票面分数的算术平均。
 
-让我们将贝叶斯平均应用于上面提到的例子来看一看结果：
+现在设我们有 \\\(N\\\) 个项目，每个项目的票数为 \\\(n_j\\\)，每个项目的算数平均分为 \\\(m_j\\\)，则
 
 \\\[
 \begin{align}
-C &= \frac{1000 + 10}{2} = 505 \\\\\\
-m &= \frac{1000 \times 9.0 + 10 \times 9.5}{1000 + 10} =
+C &= \frac{\sum_{j=1}^{N}n_j}{N} \\\\\\
+m &= \frac{\sum_{j=1}^{N}n_j m_j}{\sum_{j=1}^{N}n_j}
 \end{align}
 \\\]
+
+我们可以改写一下原来的贝叶斯平均公式。设 \\\(B_j\\\) 为第 \\\(j\\\) 个项目的贝叶斯平均分，则有
+
+\\\[
+\begin{align}
+B_j &= \frac{Cm + n_j m_j}{C+n_j} \\\\\\
+&= \frac{\frac{\sum_{j=1}^{N}n_j m_j}{N} + n_j m_j}{\frac{\sum_{j=1}^{N}n_j}{N} + n_j} \\\\\\
+&= \frac{\sum_{j=1}^{N}n_j m_j + N n_j m_j}{\sum_{j=1}^{N}n_j + N n_j}
+\end{align}
+\\\]
+
+## 对豆瓣图书搜索结果进行排序
+
+因为[豆瓣官网](https://book.douban.com/)对图书的搜索结果并不提供按评分排序的功能，所以我建了一个[网站](https://ngzhio.github.io/dbl/)去提供这个功能，它是贝叶斯平均的一个应用。
+
+这个网站通过[豆瓣开放 API](https://douban-api-docs.zce.me/) 获取数据，然后给每一本书计算一个贝叶斯平均分，再对结果按贝叶斯平均分从大到小进行排序。网站的代码可以在这个[仓库](https://github.com/ngzhio/dbl)找到。
