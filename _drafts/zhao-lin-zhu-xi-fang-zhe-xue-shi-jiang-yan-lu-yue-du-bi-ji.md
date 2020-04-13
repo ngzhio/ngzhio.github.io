@@ -1,6 +1,6 @@
 ---
 title: "赵林著《西方哲学史讲演录》阅读笔记"
-categories: [Notes, Reading, Philosophy]
+categories: [Notes]
 tags: [philosophy, history]
 ---
 
