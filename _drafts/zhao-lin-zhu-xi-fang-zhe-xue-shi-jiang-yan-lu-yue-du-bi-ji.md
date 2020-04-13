@@ -1,5 +1,6 @@
 ---
 title: "赵林著《西方哲学史讲演录》阅读笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [philosophy, history]
 ---
