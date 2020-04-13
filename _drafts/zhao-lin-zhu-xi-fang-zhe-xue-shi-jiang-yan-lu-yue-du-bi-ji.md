@@ -2,7 +2,7 @@
 title: "赵林著《西方哲学史讲演录》阅读笔记"
 lang: zh-Hans
 categories: [Notes]
-tags: [philosophy, history]
+tags: [philosophy, western philosophy, history]
 ---
 
 本文是我在阅读[赵林](http://www.aisixiang.com/thinktank/zhaolin.html)著[《西方哲学史讲演录》](https://book.douban.com/subject/4246032/)（2009）期间写下的一些笔记。这本书是作者在武汉大学和东南大学的讲课基础上整理而成的。内容从古希腊哲学到黑格尔为止。
