@@ -8,3 +8,4 @@ permalink: /friends/
 - [月光博客](https://www.williamlong.info/)
 - [A. Jesse Jiryu Davis](https://emptysqua.re/blog/)
 - [方糖气球🎈](https://ftqq.com/)
+- [阮一峰](http://www.ruanyifeng.com/home.html)
