@@ -42,3 +42,19 @@ Here are some notes I took while I was reading [*Computer Science: An Overview*,
   > All together, JPEG’s baseline standard normally compresses color images by a factor of at least 10, and often by as much as 30, without noticeable loss of quality.
 
 ### 1.10 Communication Errors
+
+#### Parity Bits
+
+A simple method of detecting errors is first adding an additional bit, called a *parity bit*, to each pattern to make sure the number of 1s of each pattern is even or odd. If each bit pattern being manipulated has an odd number of 1s and a pattern with an even number of 1s is encountered, an error must have occurred.
+
+> Today it is not unusual to find parity bits being used in a computer’s main memory. Although we envision these machines as having memory cells of 8-bit capacity, in reality each has a capacity of 9 bits, 1 bit of which is used as a parity bit.
+
+However, the mechanism of parity bit cannot detect any even number of errors within a pattern.
+
+> One means of minimizing this problem is sometimes applied to long bit patterns, such as the string of bits recorded in a sector on a magnetic disk. In this case the pattern is accompanied by a collection of parity bits making up a *checkbyte*. Each bit within the checkbyte is a parity bit associated with a particular collection of bits scattered throughout the pattern. For instance, one parity bit may be associated with every eighth bit in the pattern starting with the first bit, while another may be associated with every eighth bit starting with the second bit. In this manner, a collection of errors concentrated in one area of the original pattern is more likely to be detected, since it will be in the scope of several parity bits. Variations of this checkbyte concept lead to error detection schemes known as *checksums* and *cyclic redundancy checks (CRC)*.
+
+#### Error-Correcting Codes
+
+For example, the [*Hamming codes*](https://en.wikipedia.org/wiki/Hamming_code).
+
+## Chapter 2. Data Manipulation
