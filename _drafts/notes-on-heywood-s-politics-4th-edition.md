@@ -15,3 +15,13 @@ tags: [politics]
 Politics is linked to *conflict* and *cooperation*.
 
 #### Politics as the art of government
+
+> Politics is not a science ... but an art.
+>
+> -- [Chancellor Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck)
+
+The word "politics" is derived from *polis*, meaning literally "city-state". Politics can be understood to refer to the affairs of the polis (state).
+
+[David Easton](https://en.wikipedia.org/wiki/David_Easton): Politics is the "authoritative allocation of values".
+
+#### Politics as public affairs
