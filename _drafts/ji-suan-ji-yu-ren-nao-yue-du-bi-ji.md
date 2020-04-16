@@ -1,5 +1,6 @@
 ---
 title: "《计算机与人脑》阅读笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [computer science]
 ---
