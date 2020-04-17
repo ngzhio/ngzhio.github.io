@@ -1,10 +1,10 @@
 ---
 title: "贝叶斯平均及其应用于豆瓣图书的排序"
 date: 2020-04-11 22:49:20 +0800
-modified_date: 2020-04-13 16:04:01 +0800
+modified_date: 2020-04-17 17:21:46 +0800
 lang: zh-Hans
 categories: [Essays]
-tags: [mathematics, bayesian average, books]
+tags: [mathematics, bayesian average, book]
 math: true
 ---
 
