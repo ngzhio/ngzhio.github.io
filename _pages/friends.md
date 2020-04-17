@@ -10,3 +10,4 @@ permalink: /friends/
 - [方糖气球🎈](https://ftqq.com/)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [王登科-DK博客](https://greatdk.com/)
+- [静觅 - 崔庆才的个人站点](https://cuiqingcai.com/)
