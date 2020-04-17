@@ -1,5 +1,6 @@
 ---
 title: "《数学之美（第二版）》笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [mathematics]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "《高观点下的初等数学》笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [mathematics, elementary mathematics]
 ---

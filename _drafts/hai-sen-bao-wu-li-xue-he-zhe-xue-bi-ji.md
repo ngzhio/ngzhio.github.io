@@ -1,5 +1,6 @@
 ---
 title: "海森堡《物理学和哲学》笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [physics, philosophy]
 ---
