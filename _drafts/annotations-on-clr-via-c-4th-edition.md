@@ -8,6 +8,8 @@ tags: [csharp, dotnet, programming language, computer science]
 
 ![front cover](https://images-na.ssl-images-amazon.com/images/I/41NxW1LMwKL._SX403_BO1,204,203,200_.jpg){: .align-right width="20%" }
 
+I had built a [playground](https://github.com/ngzhio/clr-via-csharp-4e) for this book.
+
 ## Introduction
 
 > As I invested more and more of my time into it, however, I realized that it was much bigger. In a way, it is its own operating system. It has its own memory manager, its own security system, its own file loader, its own error handling mechanism, its own application isolation boundaries ([AppDomains](https://docs.microsoft.com/en-us/dotnet/framework/app-domains/application-domains)), its own threading models, and more.
