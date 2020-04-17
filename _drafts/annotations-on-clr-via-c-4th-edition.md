@@ -72,3 +72,9 @@ To install additional .NET Core runtimes or SDKs:
 ```
 
 ### Chapter 2. Building, Packaging, Deploying, and Administering Applications and Types
+
+#### Building Types into a Module
+
+Compiling a single C# file is possible in .NET Core, just calling [`csc`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe).
+
+#### A Brief Look at Metadata
