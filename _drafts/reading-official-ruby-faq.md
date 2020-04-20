@@ -85,4 +85,26 @@ John Dell’Aquila also said that the Ruby collection classes and iterators are 
 
 > The Ruby collection classes and iterators are outstanding, much more powerful and elegant than the ad hoc solutions that Python is sprouting (lambdas and list comprehensions).
 
-## Installing Ruby
+## Variables, constants, and arguments
+
+### Does assignment generate a new copy of an object
+
+Assignments in Ruby never generate a new copy of an object. An variable is a reference to an object. For example,
+
+```ruby
+a = "hello"
+b = a
+a.object_id == b.object_id  # => true
+a[0] = "f"
+b                           # => "fello"
+```
+
+Even for numbers,
+
+```ruby
+a = 42
+b = a
+a.object_id == b.object_id  # => true
+```
+
+## Iterators
