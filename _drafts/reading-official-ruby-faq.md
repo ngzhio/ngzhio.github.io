@@ -108,3 +108,26 @@ a.object_id == b.object_id  # => true
 ```
 
 ## Iterators
+
+### What is an iterator
+
+> An iterator is a method which accepts a block or a [`Proc`](https://ruby-doc.org/core-2.6/Proc.html) object.
+
+What is `Proc`?
+
+> A `Proc` object is an encapsulation of a block of code, which can be stored in a local variable, passed to a method or another `Proc`, and can be called. `Proc` is an essential concept in Ruby and a core of its functional programming features.
+>
+> -- [Ruby-Doc.org](https://ruby-doc.org/core-2.6/Proc.html)
+
+The block can be put inside `do ... end` or `{ ... }`, but they are not always exchangeable. For example,
+
+```ruby
+foobar a, b do ... end  # foobar is the iterator.
+foobar a, b { ... }     # b is the iterator.
+```
+
+This is because `{ ... }` binds more tightly to the preceding expression than does a `do ... end` block. The first example is equivalent to `foobar(a, b) do ... end`, while the second is `foobar(a, b { ... })`.
+
+**This feature could be a trap!**
+
+## Syntax
