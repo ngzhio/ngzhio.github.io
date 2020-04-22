@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+## About This Blog
+
+{{ site.description }}.
+
 ## About Me
 
 | Cyber Name          | Ngzhio          |
@@ -13,10 +17,6 @@ permalink: /about/
 | English Name        | Alexander Huang |
 | Living City         | [Shenzhen, China](https://goo.gl/maps/AQmJSzUyLnq9h35P9) |
 | Working Position    | [Unity](https://unity.com/) programmer |
-
-## About This Blog
-
-{{ site.description }}.
 
 ## Portfolio
 
