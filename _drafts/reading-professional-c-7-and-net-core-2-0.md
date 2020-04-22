@@ -75,3 +75,22 @@ I made a [playground](https://github.com/ngzhio/pro-csharp7) for this book.
     ```
 
 ### Chapter 2. Core C\#
+
+#### Predefined Types
+
+Values types include integers, floating-points, booleans, and characters.
+
+{% include image.html name="integer-types.png" %}
+{% include image.html name="floating-point-types.png" %}
+{% include image.html name="decimal-type.png" %}
+
+The `decimal` type is a high-precision floating-point type. It's suitable for financial calculations. But it's weird to name it "decimal", after all, all computers are based on binary systems.
+
+{% include image.html name="boolean-type.png" %}
+{% include image.html name="char-type.png" %}
+
+Reference types include objects and strings.
+
+{% include image.html name="reference-types.png" %}
+
+#### Control Flows
