@@ -11,3 +11,4 @@ permalink: /friends/
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [王登科-DK博客](https://greatdk.com/)
 - [静觅 - 崔庆才的个人站点](https://cuiqingcai.com/)
+- [Coding Horror - a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
