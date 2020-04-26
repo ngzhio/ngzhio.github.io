@@ -125,3 +125,22 @@ Now we add these terms again,
 \\\]
 
 Last check, when \\\(n=1\\\), this equality is obviously hold. So we have proved this equality. \\\(\blacksquare\\\)
+
+\\\[
+C_{i}^{n} = \frac{n!}{i!(n-i)!}
+\\\]
+
+Proof: Suppose it is true for \\\(n\\\), then for \\\(n+1\\\),
+
+\\\[
+\begin{align}
+C_{i}^{n+1} &= C_{i}^{n} + C_{i-1}^{n} \\\\\\
+ &= \frac{n!}{i!(n-i)!} + \frac{n!}{(i-1)!(n-(i-1))!} \\\\\\
+ &= \frac{n! \cdot (n+1-i)}{i!(n+1-i)!} + \frac{i \cdot n!}{i!(n+1-i))!} \\\\\\
+ &= \frac{(n+1)!}{i!(n+1-i)!} \\\\\\
+\end{align}
+\\\]
+
+When \\\(n=1\\\), this equality is obviously hold. So we have proved this equality. \\\(\blacksquare\\\)
+
+Exercises: Prove by mathematical induction:
