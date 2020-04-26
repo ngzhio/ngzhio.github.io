@@ -19,6 +19,7 @@ permalink: /collection/
 ## Guides
 
 - [Choose an open source license](https://choosealicense.com/)
+- [Semantic Versioning](https://semver.org/)
 
 ## Tools
 
