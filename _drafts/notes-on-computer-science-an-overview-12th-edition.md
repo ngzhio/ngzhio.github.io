@@ -28,4 +28,4 @@ To compare this implementation with the first one, the former has a benefit: It 
 
 > Although we have introduced flip-flops as a means of storing bits, the RAM in most modern computers is constructed using analogous, but more complex technologies that provide greater miniaturization and faster response time. Many of these technologies store bits as tiny electric charges that dissipate quickly. Thus these devices require additional circuitry, known as a refresh circuit, that repeatedly replenishes the charges many times a second. In recognition of this volatility, computer memory constructed from such technology is often called **dynamic memory**, leading to the term **DRAM** (pronounced “DEE–ram”) meaning Dynamic RAM. Or, at times the term **SDRAM** (pronounced “ES-DEE-ram”), meaning Synchronous DRAM, is used in reference to DRAM that applies additional techniques to decrease the time needed to retrieve the contents from its memory cells.
 
-### 1.3 Mass Storage
+### 1.9 Data Compression
