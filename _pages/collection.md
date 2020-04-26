@@ -16,6 +16,10 @@ permalink: /collection/
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
 - [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
 
+## Guides
+
+- [Choose an open source license](https://choosealicense.com/)
+
 ## Tools
 
 - [Free JPG, PNG Compressor with the Best Quality - FonePaw](https://www.fonepaw.com/photo-compressor/)
