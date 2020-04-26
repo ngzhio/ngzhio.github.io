@@ -1,7 +1,7 @@
 ---
 title: "Notes on \"SSH, The Secure Shell: The Definitive Guide, 2nd Edition\""
 categories: [Notes]
-tags: [ssh, computer network, network protocol, computer science]
+tags: [ssh, computer network, network protocol, network security, computer science]
 ---
 
 Here are some notes I took on [*SSH, The Secure Shell: The Definitive Guide*, 2nd Edition](https://www.amazon.com/dp/0596008953) (2005) by [Daniel J. Barrett](https://en.wikipedia.org/wiki/Daniel_J._Barrett), [Richard E. Silverman](https://www.qoxp.net/), and Robert G. Byrnes.
