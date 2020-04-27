@@ -1,6 +1,6 @@
 ---
 title: "Reading \"Coders at Work\""
-categories: [Notes]
+categories: [Notes, Programming]
 tags: [programmer, programming, interview, computer science]
 ---
 
