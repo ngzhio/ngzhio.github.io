@@ -1,7 +1,7 @@
 ---
 title: "Reading \"Professional JavaScript for Web Developers, 4th Edition\""
 categories: [Notes]
-tags: [javascript, programming language, web, computer science]
+tags: [javascript, programming language, web]
 ---
 
 *Professional JavaScript for Web Developers* was originally written by [Nicholas C. Zakas](https://humanwhocodes.com/), but the author of the [4th Edition](https://www.wiley.com/en/Professional+JavaScript+for+Web+Developers,+4th+Edition-p-9781119366447) (2018) was changed to [Matt Frisbie](https://twitter.com/mattfriz).
