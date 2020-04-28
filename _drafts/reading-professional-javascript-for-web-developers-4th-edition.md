@@ -1,6 +1,6 @@
 ---
 title: "Reading \"Professional JavaScript for Web Developers, 4th Edition\""
-categories: [Notes]
+categories: [Notes, Programming]
 tags: [javascript, programming language, web]
 ---
 
