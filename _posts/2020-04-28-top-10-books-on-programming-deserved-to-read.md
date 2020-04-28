@@ -5,7 +5,7 @@ categories: [Reports, Programming]
 tags: [programming, book]
 ---
 
-Here are 10 books on programming that are deserved to read. This list is sorted out from a [website](https://ngzhio.github.io/dbl/) I created.
+Here are 10 books on programming that are deserved to read. Source of information: Search for "programming" on a [website](https://ngzhio.github.io/dbl/) I created, and then select the top 10 in the list (the books of different versions are regarded as the same book).
 
 ## Top 1. *Computer Systems: A Programmer's Perspective*
 
