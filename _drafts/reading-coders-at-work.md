@@ -1,7 +1,7 @@
 ---
 title: "Reading \"Coders at Work\""
 categories: [Notes, Programming]
-tags: [programmer, programming, interview, computer science]
+tags: [programmer, programming, interview]
 ---
 
 [*Coders at Work: Reflections on the Craft of Programming*](http://www.codersatwork.com/) (2009) by [Peter Seibel](https://twitter.com/peterseibel) is a book containing a series of Q&A interviews with 15 highly accomplished programmers. This form of the book followed in the tradition established when the literary journal [*The Paris Review*](https://www.theparisreview.org/) sent two professors to interview the novelist [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster), the first in  later collected in the book [*Writers at Work*](https://www.amazon.com/dp/0140045406).
