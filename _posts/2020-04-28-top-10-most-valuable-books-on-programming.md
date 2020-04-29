@@ -1,11 +1,12 @@
 ---
-title: "Top 10 Books on Programming Deserved to Read"
+title: "Top 10 Most Valuable Books on Programming"
 date: 2020-04-28 15:17:41 +0800
+modified_date: 2020-04-29 20:47:46 +0800
 categories: [Reports, Programming]
 tags: [programming, book]
 ---
 
-Here are 10 books on programming that are deserved to read. Source of information: Search for "programming" on a [website](https://ngzhio.github.io/dbl/) I created, and then select the top 10 in the list (the books of different versions are regarded as the same book).
+I have compiled 10 most valuable books on programming here. Why do you say that they are "most valuable"? I developed a [website](https://ngzhio.github.io/dbl/) to sort the search results of [Douban Books](https://book.douban.com/) by [Bayesian average](https://en.wikipedia.org/wiki/Bayesian_average) scores from largest to smallest. The rankings here are obtained by searching "programming" on the website and picking the top 10 books in the results. (Note: Different versions of the same book are considered a book.)
 
 ## Top 1. *Computer Systems: A Programmer's Perspective*
 

@@ -1,12 +1,13 @@
 ---
-title: "Top 10 Books on Mathematics Deserved to Read"
+title: "Top 10 Most Valuable Books on Mathematics"
 date: 2020-04-29 17:12:23 +0800
+modified_date: 2020-04-29 20:47:34 +0800
 categories: [Reports, Mathematics]
 tags: [book, mathematics]
 math: true
 ---
 
-Here are 10 books on mathematics that are deserved to read. Source of information: Search for "mathematics" on a [website](https://ngzhio.github.io/dbl/) I created, and then select the top 10 in the list (the books of different versions are regarded as the same book).
+I have compiled 10 most valuable books on mathematics here. Why do you say that they are "most valuable"? I developed a [website](https://ngzhio.github.io/dbl/) to sort the search results of [Douban Books](https://book.douban.com/) by [Bayesian average](https://en.wikipedia.org/wiki/Bayesian_average) scores from largest to smallest. The rankings here are obtained by searching "mathematics" on the website and picking the top 10 books in the results. (Note: Different versions of the same book are considered a book.)
 
 ## Top 1. *Concrete Mathematics: A Foundation for Computer Science*
 
