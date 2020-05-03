@@ -1,6 +1,9 @@
 - title: Twitter
   url: https://twitter.com/ngzhio
   icon: fab fa-twitter
+- title: Facebook
+  url: https://www.facebook.com/ngzhiofb
+  icon: fab fa-facebook
 - title: GitHub
   url: https://github.com/ngzhio
   icon: fab fa-github
@@ -10,3 +13,6 @@
 - title: Stack Overflow
   url: https://stackoverflow.com/users/13261366/shangzhi-huang
   icon: fab fa-stack-overflow
+- title: LinkedIn
+  url: https://www.linkedin.com/in/shangzhi-huang-7612211a9/
+  icon: fab fa-linkedin
