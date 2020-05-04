@@ -2,6 +2,7 @@
 title: "Notes on \"Computer Systems: A Programmer's Perspective, 3rd Edition\""
 categories: [Notes, Programming]
 tags: [computer system]
+math: true
 ---
 
 [*Computer Systems: A Programmer's Perspective*, 3rd Edition](http://csapp.cs.cmu.edu/) (2015) by [Randal E. Bryant](http://www.cs.cmu.edu/~bryant) and [David R. O'Hallaron](http://www.cs.cmu.edu/~droh) is a book that stems from the introductory computer systems course the authors developed at Carnegie Mellon University, starting in the Fall of 1998.
@@ -89,3 +90,32 @@ The virtual address space for Linux processes:
 {% include image.html name="virtual-address-space.png" alt="The virtual address space for Linux processes" width="50%" %}
 
 ### 1.9 Important Themes
+
+#### 1.9.1 Amdahl’s Law
+
+The main idea of [*Amdahl’s law*](https://en.wikipedia.org/wiki/Amdahl%27s_law) is that when we speed up one part of a system, the effect on the overall system performance depends on both how significant this part was and how much it sped up. Consider a system in which executing some application requires time \\\(T_{old}\\\). Suppose some part of the system requires a fraction \\\(\alpha\\\) of this time, and that we improve its performance by a factor of \\\(k\\\). The overall execution time would thus be
+
+\\\[
+\begin{align}
+T_{new} &= (1 - \alpha)T_{old} + (\alpha T_{old}) / k \\\\\\
+ &= T_{old}(1 - \alpha + \alpha / k)
+\end{align}
+\\\]
+
+From this, we can compute the speedup \\\(S = \frac{T_{old}}{T_{new}}\\\) as
+
+\\\[
+S = \frac{1}{1 - \alpha + \alpha / k}
+\\\]
+
+As an example, consider \\\(\alpha = 0.6\\\) and \\\(k = 3\\\), then we get a speedup \\\(S \approx 1.67\\\). As another example, consider \\\(k = \infty\\\), then we get \\\(S = \frac{1}{1-\alpha}\\\). **Even though we made a substantial improvement to a major part of the system, our net speedup was significantly less than the speedup for the one part.**
+
+#### 1.9.2 Concurrency and Parallelism
+
+##### Thread-Level Concurrency
+
+> When we construct a system consisting of multiple processors all under the control of a single operating system kernel, we have a *multiprocessor system*. Such systems have been available for large-scale computing since the 1980s, but they have more recently become commonplace with the advent of *multi-core* processors and *hyperthreading*.
+
+Multi-core processors have several CPUs (referred to as “cores”) integrated onto a single integrated-circuit chip.
+
+Hyperthreading, is a technique that allows a single CPU to execute multiple flows of control. It involves having multiple copies of some of the CPU hardware, such as program counters and register files, while having only single copies of other parts of the hardware, such as the units that perform floating-point arithmetic.
