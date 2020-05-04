@@ -119,3 +119,18 @@ As an example, consider \\\(\alpha = 0.6\\\) and \\\(k = 3\\\), then we get a sp
 Multi-core processors have several CPUs (referred to as “cores”) integrated onto a single integrated-circuit chip.
 
 Hyperthreading, is a technique that allows a single CPU to execute multiple flows of control. It involves having multiple copies of some of the CPU hardware, such as program counters and register files, while having only single copies of other parts of the hardware, such as the units that perform floating-point arithmetic.
+
+### Bibliographic Notes
+
+Ritchie has written interesting firsthand accounts of the early days of C and Unix:
+
+- [*The Evolution of the Unix Time-sharing System*](https://www.cs.utexas.edu/users/ans/classes/cs439/docs/ritchie84evolution.pdf)
+- [*The Development of the C Language*](http://heim.ifi.uio.no/inf2270/programmer/historien-om-C.pdf)
+
+Ritchie and Thompson presented the first published account of Unix:
+
+- [*The UNIX Time-Sharing System*](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
+
+Silberschatz, Galvin, and Gagne provided a comprehensive history of the different flavors of Unix:
+
+- [*Operating Systems Concepts*](https://codex.cs.yale.edu/avi/os-book/)
