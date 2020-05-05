@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Computer Systems: A Programmer's Perspective, 3rd Edition\""
-categories: [Notes, Programming]
+categories: [Notes, Computer]
 tags: [computer system]
 math: true
 ---
