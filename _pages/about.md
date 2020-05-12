@@ -17,4 +17,4 @@ permalink: /about/
 | English Name        | Alexander Huang |
 | Height              | 178cm           |
 | Living City         | [Shenzhen, China](https://goo.gl/maps/AQmJSzUyLnq9h35P9) |
-| Working Position    | [Unity](https://unity.com/) programmer |
+| Working Position    | <s>Unity</s> Solo programmer |
