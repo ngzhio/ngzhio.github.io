@@ -13,3 +13,4 @@ permalink: /friends/
 - [静觅 - 崔庆才的个人站点](https://cuiqingcai.com/)
 - [Coding Horror - a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
 - [Douglas Crockford](https://www.crockford.com/)
+- [Joel on Software](https://www.joelonsoftware.com/)
