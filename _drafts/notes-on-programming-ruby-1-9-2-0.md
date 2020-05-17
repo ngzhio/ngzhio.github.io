@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Programming Ruby 1.9 & 2.0\""
-categories: [Notes, Computer]
+categories: [Reading]
 tags: [ruby, programming language]
 ---
 

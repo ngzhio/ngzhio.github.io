@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Learning Python, 5th Edition\""
-categories: [Notes, Computer]
+categories: [Reading]
 tags: [python, programming language]
 ---
 

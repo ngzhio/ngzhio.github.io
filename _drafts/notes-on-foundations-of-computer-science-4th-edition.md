@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Foundations of Computer Science, 4th Edition\""
-categories: [Notes, Computer]
+categories: [Reading]
 tags: [computer science]
 ---
 

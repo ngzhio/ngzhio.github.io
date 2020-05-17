@@ -1,6 +1,6 @@
 ---
 title: "钱乘旦《英国通史》笔记"
-categories: [Notes, History]
+categories: [Reading]
 tags: [england, history]
 ---
 
