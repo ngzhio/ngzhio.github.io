@@ -1,6 +1,7 @@
 ---
 title: "开始五年的程序员生涯"
 date: 2020-05-24 03:01:06 +0800
+modified_date: 2020-05-31 05:43:40 +0800
 lang: zh-Hans
 categories: [Essays]
 tags: [programmer, career]
@@ -58,4 +59,4 @@ tags: [programmer, career]
 
 ---
 
-下一篇：《结束五年的程序员生涯》，未完待续……
+下一篇：[《结束五年的程序员生涯》](/2020/05/31/jie-shu-wu-nian-de-cheng-xu-yuan-sheng-ya.html)，<s>未完待续……</s>已完结。
