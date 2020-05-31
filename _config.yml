@@ -3,6 +3,7 @@ description: A blog by Shangzhi Huang on everything he's interested in
 url: https://ngzhio.github.io
 author: Shangzhi Huang
 email: ngzhio@gmail.com
+timezone: +0000
 
 plugins:
   - jekyll-feed
