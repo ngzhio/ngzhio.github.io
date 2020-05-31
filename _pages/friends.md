@@ -14,3 +14,4 @@ permalink: /friends/
 - [Coding Horror - a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
 - [Douglas Crockford](https://www.crockford.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
+- [Computing Thoughts - Bruce Eckel's Programming Blog](https://www.bruceeckel.com/)
