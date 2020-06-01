@@ -3,7 +3,7 @@ title: "开始五年的程序员生涯"
 date: 2020-05-24 03:01:06 +0800
 modified_date: 2020-05-31 17:42:31 +0800
 lang: zh-Hans
-categories: [Essays]
+categories: [Essays, Programming]
 tags: [programmer, career]
 ---
 
