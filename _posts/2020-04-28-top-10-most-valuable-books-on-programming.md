@@ -2,7 +2,7 @@
 title: "Top 10 Most Valuable Books on Programming"
 date: 2020-04-28 15:17:41 +0800
 modified_date: 2020-04-29 20:47:46 +0800
-categories: [Notes, Programming]
+categories: [Notes]
 tags: [programming, book]
 ---
 

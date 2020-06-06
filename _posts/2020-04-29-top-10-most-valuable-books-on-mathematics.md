@@ -2,7 +2,7 @@
 title: "Top 10 Most Valuable Books on Mathematics"
 date: 2020-04-29 17:12:23 +0800
 modified_date: 2020-04-29 20:47:34 +0800
-categories: [Notes, Mathematics]
+categories: [Notes]
 tags: [book, mathematics]
 math: true
 ---
