@@ -15,6 +15,8 @@ permalink: /collection/
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
 - [A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)
+- [Open Source Society University: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [Open Source Society University: Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
 
 ## Guides
 
