@@ -18,3 +18,7 @@ permalink: /about/
 | Height              | 178cm           |
 | Living City         | [Shenzhen, China](https://goo.gl/maps/AQmJSzUyLnq9h35P9) |
 | Working Position    | <s>Unity</s> Solo programmer |
+
+## Books I'm Reading
+
+{% include reading-books.html %}

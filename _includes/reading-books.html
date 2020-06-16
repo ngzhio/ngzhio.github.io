@@ -1,0 +1,65 @@
+<ul id="reading-books">
+</ul>
+
+<script>
+    const API = "https://api.douban.com/v2/book/user/hszhakka/collections?apikey=0df993c66c0c636e29ecbb5344252a4a";
+    const books = [];
+    let booksRead = 0;
+
+    function jsonp(url, callback)
+    {
+        const script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = url + `&callback=${callback}`;
+        script.async = true;
+        script.className = "jsonp";
+        document.body.append(script);
+    }
+
+    function jsonpCallback(page)
+    {
+        const count = page['count'];
+        const start = page['start'];
+        const total = page['total'];
+
+        if (start == 0) {
+            booksRead = 0;
+            for (let s = start + count; s < total; s += count) {
+                jsonp(API + `&start=${s}`, "jsonpCallback");
+            }
+        }
+
+        page['collections'].forEach(book => {
+            if (book['status'] == "reading") {
+                books.push(book);
+            }
+        });
+
+        booksRead += count;
+
+        if (booksRead >= total || total < 0) {
+            const ul = document.getElementById("reading-books");
+
+            books.forEach(book => {
+                const title = book['book']['title'];
+                const link = book['book']['alt'];
+                const image = book['book']['image'];
+
+                const li = document.createElement("li");
+                ul.appendChild(li);
+
+                const a = document.createElement("a");
+                a.href = link;
+                li.appendChild(a);
+
+                const img = document.createElement("img");
+                img.className = "book";
+                img.src = image;
+                img.title = title;
+                a.appendChild(img);
+            });
+        }
+    }
+
+    jsonp(API, "jsonpCallback");
+</script>
