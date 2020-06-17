@@ -1,7 +1,7 @@
 ---
 title: "《全球通史》第 7 版阅读笔记"
 lang: zh-Hans
-categories: [Notes]
+categories: [Notes, History]
 tags: [global history]
 ---
 
