@@ -1,8 +1,9 @@
 ---
 title: "拳击力量与爆发力训练"
 date: 2020-06-13 21:44:51 +0800
+modified_date: 2020-06-17 19:03:35 +0800
 lang: zh-Hans
-categories: [Notes]
+categories: [Notes, Boxing]
 tags: [boxing]
 ---
 
