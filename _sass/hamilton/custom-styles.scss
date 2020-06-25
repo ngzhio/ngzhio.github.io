@@ -9,7 +9,7 @@
     img.book {
         margin-bottom: $spacing-unit;
         width: calc((#{$on-large} - (#{$spacing-unit}) * 5) * 0.25);
-        height: calc((#{$on-large} - (#{$spacing-unit}) * 5) * 0.25 * 1.618);
+        height: calc((#{$on-large} - (#{$spacing-unit}) * 5) * 0.25 * 1.475);
     }
 
     @include media-query($on-medium) {
