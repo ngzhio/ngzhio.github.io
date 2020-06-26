@@ -45,6 +45,8 @@ Thales’s novel inquiry concerns the nature of things. What is everything made 
 
 #### Anaximander
 
+Anaximander was a student of Thales. He agreed with his teacher that there is some single basic stuff out of which everything comes. Unlike Thales, however, Anaximander said that this basic stuff is neither water nor any other specific element. He called this basic stuff as "*Apeiron*", which means *indefinite* or *boundless*.
+
 #### Anaximenes
 
 #### Pythagoras
