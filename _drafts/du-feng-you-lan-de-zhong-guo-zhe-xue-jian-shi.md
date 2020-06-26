@@ -1,7 +1,7 @@
 ---
 title: "读冯友兰的《中国哲学简史》"
 lang: zh-Hans
-categories: [Notes, Philosophy]
+categories: [Notes]
 tags: [philosophy, history]
 ---
 

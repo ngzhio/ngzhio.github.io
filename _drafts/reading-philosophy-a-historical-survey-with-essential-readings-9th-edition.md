@@ -1,6 +1,6 @@
 ---
 title: "Reading \"Philosophy: A Historical Survey with Essential Readings, 9th Edition\""
-categories: [Notes, Philosophy]
+categories: [Notes]
 tags: [philosophy, history]
 ---
 
