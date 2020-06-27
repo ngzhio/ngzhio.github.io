@@ -1,5 +1,6 @@
 ---
 title: "冯友兰著《中国哲学简史》阅读笔记"
+lang: zh-Hans
 categories: [Notes]
 tags: [philosophy, history]
 ---
