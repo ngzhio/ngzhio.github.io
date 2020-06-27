@@ -8,7 +8,9 @@
   url: /tags/
 - title: Portfolio
   url: /portfolio/
-- title: Collection
-  url: /collection/
-- title: Friends
-  url: /friends/
+- title: More...
+  sublinks:
+  - title: Collection
+    url: /collection/
+  - title: Following
+    url: /following/

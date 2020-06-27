@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Friends
-permalink: /friends/
+title: Following
+permalink: /following/
 ---
 
 - [SpellOnYou](https://spellonyou.github.io/)
