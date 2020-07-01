@@ -8,25 +8,20 @@
 
     img.book {
         margin-bottom: $spacing-unit;
-        width: calc((#{$on-large} - (#{$spacing-unit}) * 5) * 0.25);
-        height: calc((#{$on-large} - (#{$spacing-unit}) * 5) * 0.25 * 1.475);
+        width: 120px;
+        height: 180px;
     }
 
     @include media-query($on-medium) {
         grid-template-columns: repeat(3, 1fr);
 
         img.book {
-            width: calc((#{$on-medium} - (#{$spacing-unit}) * 4) * 0.33);
-            height: calc((#{$on-medium} - (#{$spacing-unit}) * 4) * 0.33 * 1.618);
+            width: 110px;
+            height: 170px;
         }
     }
 
     @include media-query($on-small) {
         grid-template-columns: repeat(2, 1fr);
-
-        img.book {
-            width: calc((#{$on-small} - (#{$spacing-unit}) * 3) * 0.5);
-            height: calc((#{$on-small} - (#{$spacing-unit}) * 3) * 0.5 * 1.618);
-        }
     }
 }
