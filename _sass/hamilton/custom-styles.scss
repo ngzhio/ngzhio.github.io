@@ -20,8 +20,4 @@
             height: 170px;
         }
     }
-
-    @include media-query($on-small) {
-        grid-template-columns: repeat(2, 1fr);
-    }
 }
