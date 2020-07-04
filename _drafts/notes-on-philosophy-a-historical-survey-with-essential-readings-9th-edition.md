@@ -20,6 +20,14 @@ This book is divided into 5 parts:
 
 ### Chapter 1. Socrates’s Predecessors
 
+#### What Is Permanent in Existence?
+
+##### Thales
+
+Thales earned the title of “First Philosopher” of Western civilization because he firstly concerned these problems: What is everything made of, or what kind of “stuff” goes into the composition of things? His answer was *water*.
+
+##### Anaximander
+
 ## Part 2. Hellenistic and Medieval Philosophy
 
 ## Part 3. Early Modern Philosophy
