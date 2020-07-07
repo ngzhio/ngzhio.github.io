@@ -55,6 +55,39 @@ The book proved this theorem with a logic that is slightly more complicated, but
 
 #### 2. The Distribution of the Primes
 
+The algorithm of the "sieve of Eratosthenes":
+
+```python
+def Eratosthenes(N):
+    integers = list(range(N + 1))
+    integers[0] = 0
+    integers[1] = 0
+    for i in range(2, math.ceil(math.sqrt(N))):
+        if integers[i] != 0:
+            for j in range(2, N):
+                k = i * j
+                if k > N:
+                    break
+                integers[k] = 0
+    for i in range(2, N):
+        if integers[i] != 0:
+            sys.stdout.write("%d " % integers[i])
+    print("\n")
+```
+
+##### a. Formulas Producing Primes
+
+Fermat made a famous conjecture that all numbers of the form
+
+\\\[F(n)=2^{2^{n}} + 1\\\]
+
+are primes. He was wrong. In 1732, Euler discovered that \\\(F(5)=641 \times 6700417\\\), so it is not a prime. Later, more and more [Fermat numbers](https://en.wikipedia.org/wiki/Fermat_number) were found to be composite. Now, the more interested conjecture about Fermat numbers is that all Fermat numbers for \\\(n > 4\\\) are composite.
+
+Some simple expressions to produce primes:
+
+- \\\(n^2 - n + 41\\\) for \\\(1 \leq n \leq 40\\\)
+- \\\(n^2 - 79n + 1601\\\) for \\\(1 \leq n \leq 79\\\)
+
 ### &sect; 2. Congruences
 
 ### &sect; 3. Pythagorean Numbers and Fermat's Last Theorem
