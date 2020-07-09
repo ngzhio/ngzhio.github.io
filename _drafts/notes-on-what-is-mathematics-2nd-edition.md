@@ -133,7 +133,7 @@ The same strategy can not be extended to the form \\\(8n + 7\\\), since odd prim
 Denote \\\(A_n\\\) as the numbers of primes not greater than \\\(n\\\). On the basis of empirical evidence [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) made the conjecture that the ratio \\\(A_n/n\\\) is "asymptotically equal" to \\\(1/\log n\\\), i.e.
 
 \\\[
-\lim_{n\rightarrow\inf} \frac{A_n/n}{1/\log n} = 1
+\lim_{n\rightarrow\infty} \frac{A_n/n}{1/\log n} = 1
 \\\]
 
 > That the average behavior of the prime number distribution can be described by the logarithmic function is a very remarkable discovery, for it is surprising that two mathematical concepts which seem so unrelated should be in fact so intimately connected.
