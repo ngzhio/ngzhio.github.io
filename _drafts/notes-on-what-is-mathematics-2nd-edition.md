@@ -37,7 +37,7 @@ This chapter introduces some basic properties of the natural numbers, including 
 
 Theorem: There are infinite many primes.
 
-Euclid's proof: Suppose there are finite primes, then number them from 1 to n:
+[Euclid](https://en.wikipedia.org/wiki/Euclid)'s proof: Suppose there are finite primes, then number them from 1 to n:
 
 \\\[
 p_1, p_2, \cdots, p_n
@@ -55,7 +55,7 @@ The book proved this theorem with a logic that is slightly more complicated, but
 
 #### 2. The Distribution of the Primes
 
-The algorithm of the "sieve of Eratosthenes":
+The algorithm of the ["sieve of Eratosthenes"](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes):
 
 ```python
 def Eratosthenes(N):
@@ -77,18 +77,76 @@ def Eratosthenes(N):
 
 ##### a. Formulas Producing Primes
 
-Fermat made a famous conjecture that all numbers of the form
+[Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) made a famous conjecture that all numbers of the form
 
 \\\[F(n)=2^{2^{n}} + 1\\\]
 
-are primes. He was wrong. In 1732, Euler discovered that \\\(F(5)=641 \times 6700417\\\), so it is not a prime. Later, more and more [Fermat numbers](https://en.wikipedia.org/wiki/Fermat_number) were found to be composite. Now, the more interested conjecture about Fermat numbers is that all Fermat numbers for \\\(n > 4\\\) are composite.
+are primes. He was wrong. In 1732, [Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) discovered that \\\(F(5)=641 \times 6700417\\\), so it is not a prime. Later, more and more [Fermat numbers](https://en.wikipedia.org/wiki/Fermat_number) were found to be composite. Now, the more interested conjecture about Fermat numbers is that all Fermat numbers for \\\(n > 4\\\) are composite.
 
 Some simple expressions to produce primes:
 
 - \\\(n^2 - n + 41\\\) for \\\(1 \leq n \leq 40\\\)
 - \\\(n^2 - 79n + 1601\\\) for \\\(1 \leq n \leq 79\\\)
 
+##### b. Primes in Arithmetical Progressions
+
+[Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) (1805-1859) had proved a theorem by applying the most advanced tools of mathematical analysis then known: There are infinite primes in sequences of the form \\\(f(n) = a + nd\\\), where \\\(a\\\) and \\\(d\\\) have no common factors.
+
+However, we can imitate Euclid's method to prove two special forms: \\\(4n + 3\\\) and \\\(6n + 5\\\).
+
+1. \\\(4n + 3\\\)
+
+    First, we observe that any prime greater than 2 is odd and hence is the form of \\\(4n + 1\\\) or \\\(4n + 3\\\). Furthermore, the product of two numbers of the form \\\(4n + 1\\\) is still that form,
+
+    \\\[
+        (4a+1)(4b+1) = 16ab + 4a + 4b + 1 = 4(4ab + a + b) + 1
+    \\\]
+
+    Now suppose there were finite primes \\\(p_1, p_2, \cdots, p_n\\\) of the form \\\(4n + 3\\\), then consider
+
+    \\\[
+        N = 4p_1 \cdots p_n - 1 = 4(p_1 \cdots p_n - 1) + 3
+    \\\]
+
+    \\\(N\\\) is also of the form \\\(4n + 3\\\). Since all \\\(p_1, \cdots, p_n\\\) divide N with a remainder \\\(-1\\\), either \\\(N\\\) is a prime, then it is contradictory to our assumption; Or there is a prime \\\(p\\\) greater than \\\(p_n\\\) which is a factor of \\\(N\\\). If \\\(p\\\) is of the form \\\(4n + 3\\\), it is also contradictory to our assumption; If \\\(p\\\) is of the form \\\(4n + 1\\\), then there is at least a prime factor of the form \\\(4n + 3\\\) greater than \\\(p_n\\\), since the product of two numbers of the form \\\(4n + 1\\\) is still that form, but it is also contradictory to our assumption. \\\(\blacksquare\\\)
+
+2. \\\(6n + 5\\\)
+
+    The proof is similar. First, we observe that any prime greater than 2 is odd and hence is the form of \\\(6n + 1\\\) or \\\(6n + 5\\\). Furthermore, the product of two numbers of the form \\\(6n + 1\\\) is still that form,
+
+    \\\[
+        (6a+1)(6b+1) = 36ab + 6a + 6b + 1 = 6(6ab + a + b) + 1
+    \\\]
+
+    Now suppose there were finite primes \\\(p_1, p_2, \cdots, p_n\\\) of the form \\\(6n + 5\\\), then consider
+
+    \\\[
+        N = 6p_1 \cdots p_n - 1 = 6(p_1 \cdots p_n - 1) + 5
+    \\\]
+
+    Either \\\(N\\\) is a prime, or it has a prime factor of the form \\\(6n + 5\\\) greater than \\\(p_n\\\). Both of these cases are contradictory to the assumption.
+
+The same strategy can not be extended to the form \\\(8n + 7\\\), since odd primes can be of the form \\\(8n + 1\\\), \\\(8n + 3\\\), \\\(8n + 5\\\), or \\\(8n + 7\\\).
+
+##### c. The Prime Number Theorem
+
+Denote \\\(A_n\\\) as the numbers of primes not greater than \\\(n\\\). On the basis of empirical evidence [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) made the conjecture that the ratio \\\(A_n/n\\\) is "asymptotically equal" to \\\(1/\log n\\\), i.e.
+
+\\\[
+\lim_{n\rightarrow\inf} \frac{A_n/n}{1/\log n} = 1
+\\\]
+
+> That the average behavior of the prime number distribution can be described by the logarithmic function is a very remarkable discovery, for it is surprising that two mathematical concepts which seem so unrelated should be in fact so intimately connected.
+>
+> Although the statement of Gauss's conjecture is simple to understand, a rigorous mathematical proof was far beyond the powers of mathematical science in Gauss's time. To prove this theorem, concerned only with the most elementary concepts, it is necessary to employ the most powerful methods of modern mathematics. It took almost a hundred years before analysis was developed to the point where [Hadamard](https://en.wikipedia.org/wiki/Jacques_Hadamard) (1896) in Paris and [de la Vallée Poussin](https://en.wikipedia.org/wiki/Charles_Jean_de_la_Vall%C3%A9e_Poussin) (1896) in Louvain could give a complete proof of the prime number theorem. Simplifications and important modifications were given by [v. Mangoldt](https://en.wikipedia.org/wiki/Hans_Carl_Friedrich_von_Mangoldt) and [Landau](https://en.wikipedia.org/wiki/Edmund_Landau). Long before Hadamard, decisive pioneering work had been done by [Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) (1826-1866) in a famous paper where the strategic lines for the attack were drawn. Recently, the American mathematician [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) was able to modify the proof so as to avoid the use of complex numbers at an important step of the reasoning. But the proof of the prime number theorem is still no easy matter even for an advanced student.
+
+##### d. Two Unsolved Problems Concerning Prime Numbers
+
+[*Goldbach's conjecture*](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) and the [*twin prime conjecture*](https://en.wikipedia.org/wiki/Twin_prime).
+
 ### &sect; 2. Congruences
+
+#### 1. General Concepts
 
 ### &sect; 3. Pythagorean Numbers and Fermat's Last Theorem
 
