@@ -19,3 +19,4 @@ permalink: /following/
 - [王登科-DK博客](https://greatdk.com/)
 - [酷 壳 – CoolShell](https://coolshell.cn/)
 - [云风的 BLOG](https://blog.codingnow.com/)
+- [科学网博客](http://blog.sciencenet.cn/)
