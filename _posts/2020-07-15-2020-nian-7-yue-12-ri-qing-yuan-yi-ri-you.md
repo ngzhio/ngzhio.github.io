@@ -1,6 +1,7 @@
 ---
 title: "2020 年 7 月 12 日清远一日游"
 date: 2020-07-15 02:16:03 +0800
+modified_date: 2020-07-15 13:48:34 +0800
 lang: zh-Hans
 categories: [Travels]
 tags: [清远, 漂流]
@@ -18,11 +19,11 @@ tags: [清远, 漂流]
 
 岸边依山而建的几幢散乱堆砌的房子，披着金黄色的阳光；我随手拍下一段视频发了朋友圈，并配上文案：“船到威尼斯”。
 
-<iframe class="align-center" width="560" height="315" src="https://www.youtube.com/embed/EBywscWtUVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="align-center" width="70%" height="315" src="https://www.youtube.com/embed/EBywscWtUVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 船越往江中驶，视野越开阔。猛烈的太阳高挂于天空之中，晒得我阵阵发晕。江面反射着粼粼的波光，刺得我眼睛发疼，正如去年冬天[波罗的海](https://goo.gl/maps/y3ygtSDwNYw17pAr8)面上覆盖着的皑皑白雪，也反射着同样刺眼的光芒；仿佛眼前的一切都不真实。
 
-{% include image.html src="assets/img/posts/2020-nian-7-yue-12-ri-qing-yuan-yi-ri-you/xiao-bei-jiang.webp" alt="小北江" width="70%" %}
+{% include image.html src="assets/img/posts/2020-nian-7-yue-12-ri-qing-yuan-yi-ri-you/xiao-bei-jiang.jpg" alt="小北江" width="70%" %}
 
 “不真实”是她后来常常跟我提起的对俄罗斯之行的印象；我也有同样的感觉。当飞机在[圣彼得堡普尔科沃机场](https://goo.gl/maps/BWkM1mETFZaPvvT47)降落之后，我带着还未消退的耳鸣迈出舱门的那一刻，凛冽刺骨的冷空气让久居南方的我突然意识到：我确实来到了一个陌生的地方。
 
@@ -32,8 +33,8 @@ tags: [清远, 漂流]
 
 看着她迈着笨拙搞笑的步伐走在[彼得霍夫宫](https://goo.gl/maps/PyGgyvrY9zXkXNXJ7)前被白雪覆盖的波罗的海上时，那一刻，我也希望时间可以停留；我可以忘掉之前的不开心，也可以躲掉之后的一地鸡毛；爱不会消散。
 
-<iframe class="align-center" width="560" height="315" src="https://www.youtube.com/embed/dD9Bg9HpFoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="align-center" width="70%" height="315" src="https://www.youtube.com/embed/dD9Bg9HpFoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include image.html src="assets/img/posts/2020-nian-7-yue-12-ri-qing-yuan-yi-ri-you/qiu-bao-bao.webp" alt="秋宝宝" width="50%" %}
+{% include image.html src="assets/img/posts/2020-nian-7-yue-12-ri-qing-yuan-yi-ri-you/qiu-bao-bao.jpg" alt="秋宝宝" width="50%" %}
 
 晚上 11 点，终于回到了深圳，似乎身心都未得到愉悦。晾起带回来的湿衣服，铲掉堆了一天的猫屎，再睡几个小时又得起来干活了。
