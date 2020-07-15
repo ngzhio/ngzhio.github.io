@@ -28,6 +28,12 @@ Thales earned the title of “First Philosopher” of Western civilization becau
 
 ##### Anaximander
 
+Anaximander agreed witth Thales that there is some single basic stuff out of which everything comes. Unlike Thales, however, Anaximander said that this basic stuff is neither water nor any other specific element. It is an *indefinite* or *boundless* realm. It's called *[Apeiron](https://en.wikipedia.org/wiki/Apeiron)* (/əˈpaɪrɒn/; ἄπειρον).
+
+> His explanation is this: The indeterminate boundless is the unoriginated and indestructible primary substance of things, yet it also has eternal motion. As a consequence of this motion, the various specific elements came into being as they “separated off” from the original substance. Thus, “there was an eternal motion in which the heavens came to be.” First *warm* and *cold* were separated off, and from these two came *moist*; then from these came *earth* and *air*.
+
+##### Anaximenes
+
 ## Part 2. Hellenistic and Medieval Philosophy
 
 ## Part 3. Early Modern Philosophy
