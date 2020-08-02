@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## Jekyll Themes
   
-- [Hamilton - another minimal style of Jekyll theme for writers](https://github.com/ngzhio/jekyll-theme-hamilton)
+- [Hamilton - A minimal and beautiful Jekyll theme best for writing and note-taking](https://github.com/ngzhio/jekyll-theme-hamilton)
 
 ## Websites
   
