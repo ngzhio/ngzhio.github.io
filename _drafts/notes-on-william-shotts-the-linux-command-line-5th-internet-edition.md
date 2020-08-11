@@ -8,6 +8,11 @@ tags: [linux, command line, shell]
 
 ![front cover](http://linuxcommand.org/images/lcl2_front_new.png){: .align-right width="25%" }
 
+How to install Linux? After following the steps introduced in the two articles below I had install and dual boot Ubuntu on my MacBook Pro.
+
+- [*How to Install and Dual Boot Linux on Your Mac*](https://www.makeuseof.com/tag/install-linux-macbook-pro/)
+- [*How To Create A Bootable Ubuntu USB Drive For Mac In OS X*](https://itsfoss.com/create-bootable-ubuntu-usb-drive-mac-os/)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Introduction](#introduction)
