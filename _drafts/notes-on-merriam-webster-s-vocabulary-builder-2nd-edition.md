@@ -13,6 +13,7 @@ tags: [english, vocabulary]
 - [Unit 1](#unit-1)
   - [BENE](#bene)
   - [AM](#am)
+  - [BELL](#bell)
 
 ## Unit 1
 
@@ -31,3 +32,25 @@ tags: [english, vocabulary]
 - **benevolence** Kindness, generosity.
 
 ### AM
+
+> **AM** comes from the Latin *amare*, “to love.” The Roman god of love was known by two different names, Cupid and *Amor*. *Amiable* means “friendly or good-natured,” and *amigo* is Spanish for “friend.”
+
+- **amicable** Friendly, peaceful.
+- **enamored** Charmed or fascinated; inflamed with love.
+
+  Examples:
+
+  > - Computer hackers are always enamored of their new programs and games.
+  > - Millions of readers have found themselves enamored with Jane Austen's novels.
+
+  Both "of" and "with" are commonly used after "enamored".
+
+- **amorous** Having or showing strong feelings of attraction or love.
+
+  A couple smooching on a park bench could be called amorous, or a young married couple who are always hugging and kissing.
+
+- **paramour** A lover, often secret, not allowed by law or custom.
+
+  "Paramour" came to English from French (a language based on Latin) "par amour", which meant "through love", so it implies a relationship based solely on love, often physical love, rather than on social custom or ceremony.
+
+### BELL
