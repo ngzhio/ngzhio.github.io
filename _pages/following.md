@@ -4,19 +4,15 @@ title: Following
 permalink: /following/
 ---
 
-## English Blog
+Here are some blogs I'm following.
 
-- [A. Jesse Jiryu Davis](https://emptysqua.re/blog/)
-- [Coding Horror - a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
-- [Douglas Crockford](https://www.crockford.com/)
+## 中文博客
+
+- [博客网 -- 中文博客发源地，自媒体根据地](http://www.bokee.com/)
+- [科学网—博客](http://blog.sciencenet.cn/)
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+## English Blogs
+
+- [Coding Horror -- a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
-- [Computing Thoughts - Bruce Eckel's Programming Blog](https://www.bruceeckel.com/)
-
-## Chinese Blog
-
-- [月光博客](https://www.williamlong.info/)
-- [阮一峰](http://www.ruanyifeng.com/home.html)
-- [王登科-DK博客](https://greatdk.com/)
-- [酷 壳 – CoolShell](https://coolshell.cn/)
-- [云风的 BLOG](https://blog.codingnow.com/)
-- [科学网博客](http://blog.sciencenet.cn/)
