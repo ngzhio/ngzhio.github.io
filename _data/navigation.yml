@@ -8,7 +8,7 @@
     url: /categories/
   - title: Tags
     url: /tags/
-- title: Portfolio
-  url: /portfolio/
 - title: Following
   url: /following/
+- title: Portfolio
+  url: /portfolio/
