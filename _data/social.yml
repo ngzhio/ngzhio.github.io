@@ -4,12 +4,15 @@
 - title: Facebook
   url: https://www.facebook.com/ngzhiofb
   icon: fab fa-facebook
-- title: GitHub
-  url: https://github.com/ngzhio
-  icon: fab fa-github
 - title: Instagram
   url: https://www.instagram.com/ngzhio
   icon: fab fa-instagram
+- title: YouTube
+  url: https://www.youtube.com/channel/UCEi487X4O_fviCELYB3cMLA/featured
+  icon: fab fa-youtube
+- title: GitHub
+  url: https://github.com/ngzhio
+  icon: fab fa-github
 - title: Stack Overflow
   url: https://stackoverflow.com/users/13261366/shangzhi-huang
   icon: fab fa-stack-overflow
