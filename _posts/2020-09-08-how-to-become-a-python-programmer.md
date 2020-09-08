@@ -1,6 +1,7 @@
 ---
 title: "How to Become a Python Programmer"
 date: 2020-09-08 00:07:59 +0800
+modified_date: 2020-09-09 00:56:17 +0800
 categories: [To-do]
 tags: [python, programming language, book]
 ---
@@ -14,8 +15,8 @@ Here is a to-do list or roadmap for me to learn to become a Python programmer, a
 
 ## Beginning Level of the Python Language
 
-- [ ] [*Python Crash Course, 2nd Edition*](https://nostarch.com/pythoncrashcourse2e) (2019) by Eric Matthes
-- [ ] [*Automate the Boring Stuff with Python: Practical Programming for Total Beginners*, 2nd Edition](https://automatetheboringstuff.com/) (2019) by Al Sweigart
+- [ ] :book: [*Python Crash Course, 2nd Edition*](https://nostarch.com/pythoncrashcourse2e) (2019) by Eric Matthes
+- [ ] :book: [*Automate the Boring Stuff with Python: Practical Programming for Total Beginners*, 2nd Edition](https://automatetheboringstuff.com/) (2019) by Al Sweigart
 
 ## To Be Continued
 
