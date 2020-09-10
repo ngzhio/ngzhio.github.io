@@ -20,3 +20,4 @@ Here are some blogs I'm following.
 - [Coding Horror -- a blog by Jeff Atwood on programming and human factors](https://blog.codinghorror.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [A. Jesse Jiryu Davis' Blog](https://emptysqua.re/blog/)
+- [Oz Nova](https://ozwrites.com/)
