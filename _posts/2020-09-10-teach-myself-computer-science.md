@@ -1,8 +1,9 @@
 ---
 title: "Teach Myself Computer Science"
 date: 2020-09-10 18:08:08 +0800
+modified_date: 2020-09-11 00:02:08 +0800
 categories: [To-do]
-tags: [computer science]
+tags: [computer science, book]
 ---
 
 This to-do list was inspired by [Oz Nova](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck)'s guide [*Teach Yourself Computer Science*](https://teachyourselfcs.com/), but I made an expansion based on that list. I hope it is also helpful for you. Any advice is welcome; You can write it on the comments below this post, as long as you have a [Disqus](https://disqus.com/) account, or you can open an [Issue](https://github.com/ngzhio/ngzhio.github.io/issues/new).
