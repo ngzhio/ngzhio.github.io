@@ -21,3 +21,4 @@ Here are some blogs I'm following.
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [A. Jesse Jiryu Davis' Blog](https://emptysqua.re/blog/)
 - [Oz Nova](https://ozwrites.com/)
+- [Al Sweigart](https://alsweigart.com/)
