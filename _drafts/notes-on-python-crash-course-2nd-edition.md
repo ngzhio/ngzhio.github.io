@@ -15,7 +15,9 @@ Here are some notes I took on [Eric Matthes](https://ehmatthes.github.io/)' [*Py
   - [Chapter 3. Introducing Lists](#chapter-3-introducing-lists)
     - [Changing, Adding, and Removing Elements](#changing-adding-and-removing-elements)
     - [Organizing a List](#organizing-a-list)
-  - [Chapter 4. Working with Lists](#chapter-4-working-with-lists)
+  - [Chapter 6. Dictionaries](#chapter-6-dictionaries)
+    - [Working with Dictionaries](#working-with-dictionaries)
+  - [Chapter 7. User Input and `while` Loops](#chapter-7-user-input-and-while-loops)
 
 ## Part I. Basics
 
@@ -102,4 +104,10 @@ names.remove('Alexander Huang')
 
 Using the `sort()` *method* to permanently sort a list; Using the `sorted` *function* to get a sorted copy of the list.
 
-### Chapter 4. Working with Lists
+### Chapter 6. Dictionaries
+
+#### Working with Dictionaries
+
+Using keys in square brackets to retrieve the value from a dictionary might cause one potential problem: if the key doesn’t exist, we'll get an error. We can use the `get()` method to avoid this problem. The `get()` method requires a key as a first argument, and we can pass the second argument a value to be returned if the key doesn’t exist.
+
+### Chapter 7. User Input and `while` Loops
