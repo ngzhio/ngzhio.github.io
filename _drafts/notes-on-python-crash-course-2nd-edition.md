@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Python Crash Course, 2nd Edition\""
-categories: [Notes]
+categories: [Notes, Computer]
 tags: [python, programming language]
 ---
 

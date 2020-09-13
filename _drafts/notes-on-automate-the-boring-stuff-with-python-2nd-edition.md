@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Automate the Boring Stuff with Python, 2nd Edition\""
-categories: [Notes]
+categories: [Notes, Computer]
 tags: [python, programming language]
 ---
 
