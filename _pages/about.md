@@ -17,5 +17,4 @@ permalink: /about/
 | Chinese Nickname    | 亚力             |
 | English Name        | Alexander Huang |
 | Height              | 178cm           |
-| Living City         | [Shenzhen, China](https://goo.gl/maps/AQmJSzUyLnq9h35P9) |
 | Books being Read    | [豆瓣](https://book.douban.com/people/hszhakka/do) |
