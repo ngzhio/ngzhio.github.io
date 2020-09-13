@@ -1,10 +1,10 @@
 ---
 title: "拳击力量与爆发力训练"
 date: 2020-06-13 21:44:51 +0800
-modified_date: 2020-07-15 13:47:53 +0800
+last_modified_at: 2020-09-14 00:42:01 +0800
 lang: zh-Hans
-categories: [Notes]
-tags: [boxing]
+categories: [Notes, Boxing]
+tags: [boxing power]
 ---
 
 前几天，我发现了一篇介绍拳击力量与爆发力训练的英文文章 [*Strength and Power Training for Boxing* - Precision Striking](https://precisionstriking.com/strength-power-training-boxing/)。我觉得它对于任何拳击爱好者都非常有用，因此想将它翻译成中文方便自己阅读，但是失败了，因为原文语法错误和俚语太多了，有好些句子我都没办法精确理解，而且通过阅读理解文字来练习动作也不是很高效。所以，在这里我就找了些原文未曾提供的对每个动作的介绍视频，大家有兴趣的话可以看着视频练习。

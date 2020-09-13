@@ -1,9 +1,10 @@
 ---
 title: "David A. Black 小传"
 date: 2020-08-27 16:16:39 +0800
+last_modified_at: 2020-09-14 00:42:51 +0800
 lang: zh-Hans
-categories: [Essays]
-tags: [ruby, programmer, biography]
+categories: [Essays, Biographies]
+tags: [ruby, programmer]
 ---
 
 [David A. Black](https://www.davidablack.net/) 是 [*The Well-Grounded Rubyist*](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) 一书的作者。他本人就是一个经验老道的 [Ruby](https://www.ruby-lang.org/en/) 程序员。除了写书传授 Ruby 之外，他还是 Ruby 标准库的贡献者之一和非营利性组织 [Ruby Central](https://rubycentral.org/) 的发起人之一。目前，他在美国的一家教育技术公司 [2U](https://2u.com/) 工作。

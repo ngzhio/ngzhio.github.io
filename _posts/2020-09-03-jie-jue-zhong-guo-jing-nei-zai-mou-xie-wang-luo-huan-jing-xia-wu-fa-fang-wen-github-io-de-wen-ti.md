@@ -1,8 +1,9 @@
 ---
 title: "解决中国境内在某些网络环境下无法访问 github.io 的问题"
 date: 2020-09-03 01:01:04 +0800
+last_modified_at: 2020-09-14 00:43:08 +0800
 lang: zh-Hans
-categories: [Notes]
+categories: [Notes, Computer]
 tags: [github, github-pages, internet, dns]
 ---
 

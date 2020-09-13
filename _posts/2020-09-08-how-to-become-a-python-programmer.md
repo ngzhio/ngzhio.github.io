@@ -1,8 +1,8 @@
 ---
 title: "How to Become a Python Programmer"
 date: 2020-09-08 00:07:59 +0800
-modified_date: 2020-09-09 00:56:17 +0800
-categories: [To-do]
+last_modified_at: 2020-09-14 00:43:26 +0800
+categories: [To-do, Computer]
 tags: [python, programming language, book]
 ---
 
