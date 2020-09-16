@@ -1,8 +1,8 @@
 ---
 title: "Releasing Hamilton 1.4.0"
 date: 2020-07-01 20:35:05 +0800
-last_modified_at: 2020-09-14 00:42:13 +0800
-categories: [Statements, Computer]
+last_modified_at: 2020-09-16 18:32:51 +0800
+categories: [Statements, Tech]
 tags: [jekyll theme, hamilton]
 ---
 

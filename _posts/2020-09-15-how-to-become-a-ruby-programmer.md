@@ -1,7 +1,8 @@
 ---
 title: "How to Become a Ruby Programmer"
 date: 2020-09-15 17:08:36 +0800
-categories: [To-do, Computer]
+last_modified_at: 2020-09-16 18:33:58 +0800
+categories: [To-do, Tech]
 tags: [ruby, programming language, book]
 ---
 

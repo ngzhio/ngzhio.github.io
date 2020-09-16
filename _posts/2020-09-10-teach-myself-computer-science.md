@@ -1,8 +1,8 @@
 ---
 title: "Teach Myself Computer Science"
 date: 2020-09-10 18:08:08 +0800
-last_modified_at: 2020-09-14 00:43:38 +0800
-categories: [To-do, Computer]
+last_modified_at: 2020-09-16 18:33:46 +0800
+categories: [To-do, Tech]
 tags: [computer science, book]
 ---
 

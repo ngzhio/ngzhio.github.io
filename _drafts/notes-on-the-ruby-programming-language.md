@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"The Ruby Programming Language\""
-categories: [Notes, Computer]
+categories: [Notes, Tech]
 tags: [ruby, programming language]
 ---
 

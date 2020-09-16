@@ -1,8 +1,9 @@
 ---
 title: "自建博客就是最强大的笔记工具"
 date: 2020-07-30 22:39:17 +0800
+last_modified_at: 2020-09-16 18:33:06 +0800
 lang: zh-Hans
-categories: [Essays]
+categories: [Essays, Tech]
 tags: [blog, note-taking]
 ---
 

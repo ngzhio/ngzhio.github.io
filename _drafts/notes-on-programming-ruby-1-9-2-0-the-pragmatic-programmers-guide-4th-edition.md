@@ -1,6 +1,6 @@
 ---
 title: "Notes on \"Programming Ruby 1.9 & 2.0: The Pragmatic Programmers’ Guide, 4th Edition\""
-categories: [Notes, Computer]
+categories: [Notes, Tech]
 tags: [ruby, programming language]
 ---
 
