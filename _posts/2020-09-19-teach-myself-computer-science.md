@@ -1,23 +1,13 @@
 ---
 title: "Teach Myself Computer Science"
 date: 2020-09-19 23:38:42 +0800
+last_modified_at: 2020-09-21 00:12:34 +0800
 categories: [To-do, Tech]
 tags: [computer science, book]
+toc: true
 ---
 
 [*Teach Yourself Computer Science*](https://teachyourselfcs.com/) written by [Oz Nova](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck) is a guide for self-taught engineers or boot camp grads to learn computer science. They listed subjects should be learned and introduced the best book or video for each subject. I plan to learn these resources and expand the list. If you have a better suggestion, welcome to tell me on the comments below this post, as long as you have a [Disqus](https://disqus.com/) account, or you can open an Issue if you have a [GitHub](https://github.com/) account.
-
-## Table of Contents <!-- omit in toc -->
-
-- [Programming](#programming)
-- [Computer Architecture](#computer-architecture)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Math for CS](#math-for-cs)
-- [Operating Systems](#operating-systems)
-- [Computer Networking](#computer-networking)
-- [Databases](#databases)
-- [Languages and Compilers](#languages-and-compilers)
-- [Distributed Systems](#distributed-systems)
 
 ## Programming
 

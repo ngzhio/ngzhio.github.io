@@ -1,40 +1,13 @@
 ---
 title: "Learning \"GitHub Arctic Code Vault: Tech Tree\""
 date: 2020-09-19 00:14:28 +0800
+last_modified_at: 2020-09-21 00:12:12 +0800
 categories: [To-do, Tech]
 tags: [book]
+toc: true
 ---
 
 The GitHub Archive Program is a project for preserving open-source software for future generations. For that, they also list a selection of works (called the [Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md) by them) intended to describe how the world makes and uses software today. Now I want to learn that list.
-
-## Table of contents <!-- omit in toc -->
-
-- [Fundamentals of computing and the Internet](#fundamentals-of-computing-and-the-internet)
-- [Algorithms and data structures](#algorithms-and-data-structures)
-- [Compilers, assembler, and operating systems](#compilers-assembler-and-operating-systems)
-- [Programming languages](#programming-languages)
-- [Networking and connectivity](#networking-and-connectivity)
-- [Modern software development](#modern-software-development)
-- [Modern software applications](#modern-software-applications)
-  - [Web development](#web-development)
-  - [Scientific computing](#scientific-computing)
-  - [Machine learning](#machine-learning)
-  - [Virtualization and containers](#virtualization-and-containers)
-  - [Reliability and scaling](#reliability-and-scaling)
-  - [Economics and sociotechnical systems](#economics-and-sociotechnical-systems)
-- [Hardware architectures](#hardware-architectures)
-  - [Fundamental electronics and elements](#fundamental-electronics-and-elements)
-  - [Modern hardware architecture](#modern-hardware-architecture)
-  - [HDLs](#hdls)
-  - [Example architecture details](#example-architecture-details)
-  - [GPUs and FPGAs](#gpus-and-fpgas)
-- [Hardware development](#hardware-development)
-- [Electronic components, transistors, semiconductor manufacturing](#electronic-components-transistors-semiconductor-manufacturing)
-- [Radio, television, and other industrial technologies](#radio-television-and-other-industrial-technologies)
-- [Pre-industrial technologies](#pre-industrial-technologies)
-- [Women and Technology](#women-and-technology)
-- [Languages](#languages)
-- [Fiction, culture, and history](#fiction-culture-and-history)
 
 ## Fundamentals of computing and the Internet
 

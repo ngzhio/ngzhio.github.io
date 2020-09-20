@@ -2,6 +2,7 @@
 title: "Reading \"The Pattern On The Stone: The Simple Ideas That Make Computers Work\""
 categories: [Notes, Tech]
 tags: [computer]
+toc: true
 ---
 
 [William Daniel Hillis](https://en.wikipedia.org/wiki/Danny_Hillis) (born September 25, 1956) is an American inventor, entrepreneur, and scientist, who pioneered parallel computers and their use in artificial intelligence. In 1998, he wrote a book [*The Pattern On The Stone: The Simple Ideas That Make Computers Work*](https://www.amazon.com/dp/046502596X) to explain concepts from computer science by using simple language, metaphor and analogy. It moves from *Boolean algebra* through topics such as *finite-state machines*, *programming languages*, *compilers and interpreters*, *information theory*, *parallel computing*, *cryptography*, *algorithms*, *heuristics*, *Turing machines*, *uncomutable functions*, and evolving technologies such as *quantum computing*, *neural networks*, *machine learning*, and *self-organizing systems*.
@@ -21,12 +22,6 @@ Computers are complex but also simple. Here are some principles that make comput
 3. *Computers are not dependent so much on technology as on ideas*.
 
    This book is about ideas but not the technology.
-
-## Table of Contents <!-- omit in toc -->
-
-- [Notes on Each Chapter](#notes-on-each-chapter)
-  - [Chapter 1. Nuts and Bolts](#chapter-1-nuts-and-bolts)
-  - [Chapter 2. Universal Building Blocks](#chapter-2-universal-building-blocks)
 
 ## Notes on Each Chapter
 
